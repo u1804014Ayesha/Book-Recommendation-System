@@ -1,5 +1,5 @@
-Overview
-This project is a book recommendation system implemented in Python. It utilizes cosine similarity to recommend books to users based on their preferences and past interactions with books.
+##Overview
+#This project is a book recommendation system implemented in Python. It utilizes cosine similarity to recommend books to users based on their preferences and past interactions with books.
 
 Features
 Cosine Similarity: The recommendation system calculates the cosine similarity between user preferences and book features to suggest relevant books.
